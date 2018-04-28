@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/pages/birth-celebrant/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/celebrant-fees/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/funeral-celebrant/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/debug/gridtest/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
   </url>
   
   <url>
+    <loc>/pages/heads-up/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/life-celebrant/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/marriage-celebrant/</loc>
+    <lastmod>2018-04-25T00:33:53+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/testimonials/</loc>
     <lastmod>2018-04-25T00:33:53+12:00</lastmod>
   </url>
   

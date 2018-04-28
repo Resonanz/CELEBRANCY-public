@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on My New Hugo Site</title>
+    <title>Pages on Celebrancy for Life, Palmerston North, Manawatu, New Zealand</title>
     <link>/pages/</link>
-    <description>Recent content in Pages on My New Hugo Site</description>
+    <description>Recent content in Pages on Celebrancy for Life, Palmerston North, Manawatu, New Zealand</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Apr 2018 21:03:08 +1200</lastBuildDate>
@@ -12,7 +12,70 @@
     
     
     <item>
-      <title>About</title>
+      <title>Birth Celebrancy</title>
+      <link>/pages/birth-celebrant/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/birth-celebrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celebrancy Fees</title>
+      <link>/pages/celebrant-fees/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/celebrant-fees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funeral Celebrancy</title>
+      <link>/pages/funeral-celebrant/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/funeral-celebrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heads up</title>
+      <link>/pages/heads-up/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/heads-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life Celebrancy</title>
+      <link>/pages/life-celebrant/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/life-celebrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marriage Celebrancy</title>
+      <link>/pages/marriage-celebrant/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/marriage-celebrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testimonials</title>
+      <link>/pages/testimonials/</link>
+      <pubDate>Wed, 25 Apr 2018 00:33:53 +1200</pubDate>
+      
+      <guid>/pages/testimonials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Celebrancy for Life</title>
       <link>/pages/about/</link>
       <pubDate>Sat, 21 Apr 2018 21:52:41 +1200</pubDate>
       
